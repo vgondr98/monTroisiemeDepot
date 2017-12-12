@@ -9,7 +9,7 @@
   </parent>
   <groupId>fr.GTM</groupId>
   <artifactId>testEgitbis</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>testEgitbis</name>
   <url>http://maven.apache.org</url>
   <properties>
